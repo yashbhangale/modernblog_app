@@ -1,0 +1,39 @@
+{
+  "name": "graphcms-blog",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=14.0"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "graphql": "^15.8.0",
+    "graphql-request": "^3.7.0",
+    "html-react-parser": "^1.4.12",
+    "moment": "^2.29.3",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-multi-carousel": "^2.8.0",
+    "sass": "^1.51.0",
+    "swr": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-next": "11.1.2",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.7"
+  }
+}
