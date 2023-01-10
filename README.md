@@ -1,4 +1,8 @@
-modern blog app
+Modern Blog App
+![yashbhangale](https://user-images.githubusercontent.com/68957369/211583592-e39b26bc-b234-4d4b-8e79-6d3bd22001da.png)
+
+
+
 This is a modern blog application built using React, a JavaScript library for building user interfaces. It utilizes the power of Tailwind CSS, a highly customizable, low-level CSS framework, to create a visually appealing and responsive design. The project also makes use of GraphQL, a query language for your API, which allows for more flexibility and efficiency in data retrieval.
 
 The app allows users to view a list of blog posts, read individual posts, and leave comments. The data is stored in a GraphQL server and can be easily updated, added, or deleted.
